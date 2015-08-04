@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\028 Educate\Code Solutions\CShark\bin\Debug\CShark.exe.config
+C:\Users\user\Desktop\028 Educate\Code Solutions\CShark\bin\Debug\CShark.exe
+C:\Users\user\Desktop\028 Educate\Code Solutions\CShark\bin\Debug\CShark.pdb
+C:\Users\user\Desktop\028 Educate\Code Solutions\CShark\obj\Debug\CShark.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\028 Educate\Code Solutions\CShark\obj\Debug\CShark.exe
+C:\Users\user\Desktop\028 Educate\Code Solutions\CShark\obj\Debug\CShark.pdb
